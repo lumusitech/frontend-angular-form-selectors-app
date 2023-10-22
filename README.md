@@ -6,6 +6,10 @@
 pnpm i
 ```
 
+## API used
+
+[REST COUNTRIES](https://restcountries.com/)
+
 ### Dependencies
 
 #### Dev dependencies
